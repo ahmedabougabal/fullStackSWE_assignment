@@ -2,6 +2,31 @@
 
 built this React-based web application for viewing and analyzing Apple Inc.'s financial data. The app allows users to filter and sort financial metrics such as revenue, net income, and more.
 
+
+![image](https://github.com/user-attachments/assets/b1ddfb05-df31-4fca-ada1-98d46e37081f)
+
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+
+  ![image](https://github.com/user-attachments/assets/94d587bf-64a8-46bd-ae3f-6ca56cec8d0f)
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+
+
+![image](https://github.com/user-attachments/assets/24ec1a1e-0070-4728-8db3-f01abfcbe77f)
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+
+![image](https://github.com/user-attachments/assets/fb038386-a85f-4c1f-abe3-26c045951265)
+
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+
+
+![image](https://github.com/user-attachments/assets/0b0c706d-9a39-4a9c-845e-a79b155ed7d2)
+
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+
+![image](https://github.com/user-attachments/assets/2f76d0d3-638f-4ea6-8f0d-6e8cc644c561)
+
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="100px">
+
 ## Features
 
 - View Apple Inc.'s annual income statements
