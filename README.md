@@ -40,7 +40,7 @@ built this React-based web application for viewing and analyzing Apple Inc.'s fi
 1. Make sure Docker and Docker Compose are installed
 2. Build and run the container:
    ```bash
-   docker-compose up --build -d
+   docker compose up --build -d
    ```
 
 The app will be available at `http://localhost:5173`
