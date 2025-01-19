@@ -4,7 +4,7 @@ import { Label } from './ui/label';
 import { Input } from './ui/input';
 import { FilterCriteria } from '../types/FinancialData';
 import { Sliders, ChevronUp, ChevronDown } from 'lucide-react';
-
+// missed filter panel commit message
 interface FilterPanelProps {
   filters: FilterCriteria;
   onFilterChange: (filters: FilterCriteria) => void;
