@@ -1,7 +1,6 @@
-# Financial Data Filtering App
+# Financial Data Filtering App 💸 📊 💵
 
-built this React-based web application for viewing and analyzing Apple Inc.'s financial data. The app allows users to filter and sort financial metrics such as revenue, net income, and more.
-
+Developed an elegant React-based web application using Chadcn components, featuring beautiful React charts for visualizing and analyzing Apple Inc.'s financial data.
 
 ![image](https://github.com/user-attachments/assets/b1ddfb05-df31-4fca-ada1-98d46e37081f)
 
