@@ -1,6 +1,15 @@
-# Financial Data Filtering App 💸 📊 💵
+# Financial Data Filtering App 💸 📊 💵 
 
-Developed an elegant React-based web application using Chadcn components, featuring beautiful React charts for visualizing and analyzing Apple Inc.'s financial data.
+![Tests Passing](https://img.shields.io/badge/tests-passing-brightgreen)
+
+__**Developed an elegant React-based web application using Chadcn components, featuring beautiful React charts for visualizing and analyzing Apple Inc.'s financial data via Public API.**__
+
+[![Deployment](https://img.shields.io/badge/Deployed%20App-View%20Here-brightgreen?style=for-the-badge)](https://full-stack-swe-assignment-git-d-6c8049-ahmedabougabals-projects.vercel.app/) 
+![TypeScript](https://img.shields.io/badge/TypeScript-82.1%25-blue?style=for-the-badge&logo=typescript)
+![CSS](https://img.shields.io/badge/CSS-10.1%25-orange?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-6.1%25-yellow?style=for-the-badge&logo=javascript)
+![Other](https://img.shields.io/badge/Other-1.7%25-lightgrey?style=for-the-badge)
+
 
 ![image](https://github.com/user-attachments/assets/b1ddfb05-df31-4fca-ada1-98d46e37081f)
 
