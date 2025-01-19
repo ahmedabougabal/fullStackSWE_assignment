@@ -13,7 +13,7 @@ import {
 } from 'recharts';
 import { Card, CardContent, CardHeader, CardTitle } from '../ui/card';
 import { FinancialStatement } from '../../types/FinancialData';
-
+// missed chart commit message
 interface FinancialChartProps {
   data: FinancialStatement[];
   type: 'line' | 'bar';
